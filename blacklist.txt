@@ -1,0 +1,2 @@
+*://detail.chiebukuro.yahoo.co.jp/qa/question_detail/*
+*://stackoverflow.com/questions/*
