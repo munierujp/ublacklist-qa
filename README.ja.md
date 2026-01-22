@@ -1,5 +1,7 @@
 [English](README.md) | **日本語**
 
+---
+
 # ublacklist-qa
 
 🚫 検索結果からQ&Aサイトを除外するための、uBlacklistのブラックリスト
