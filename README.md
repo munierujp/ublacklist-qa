@@ -11,3 +11,7 @@
     ```
     https://raw.githubusercontent.com/munierujp/ublacklist-qa/refs/heads/main/blacklist.txt
     ```
+
+## Related Repositories
+
+- [munierujp/ublacklist-search-result](https://github.com/munierujp/ublacklist-search-result)
