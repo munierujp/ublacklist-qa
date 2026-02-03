@@ -1,3 +1,4 @@
 *://detail.chiebukuro.yahoo.co.jp/*
 *://stackoverflow.com/*
+*://teratail.com/*
 *://www.cosme.net/chieco/*
