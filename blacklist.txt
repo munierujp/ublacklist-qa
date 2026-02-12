@@ -1,6 +1,7 @@
 *://contents.jobcatalog.yahoo.co.jp/qa/*
 *://detail.chiebukuro.yahoo.co.jp/*
 *://okwave.jp/*
+*://qiita.com/*/questions/*
 *://stackoverflow.com/*
 *://teratail.com/*
 *://www.cosme.net/chieco/*
