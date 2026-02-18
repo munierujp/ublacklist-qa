@@ -1,3 +1,4 @@
+*://*.stackoverflow.com/*
 *://contents.jobcatalog.yahoo.co.jp/qa/*
 *://detail.chiebukuro.yahoo.co.jp/*
 *://okwave.jp/*
